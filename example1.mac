@@ -1,0 +1,8 @@
+#this is comment line
+
+/tracking/verbose 0
+
+/run/setCut 1 mm
+
+/run/beamOn 10 #run 100 simulation
+
